@@ -22,7 +22,7 @@ cf. site gouv sur recrutement / AFE Creation / net PME
 ### à prendre en compte
 -	Aide CIR, CICE ?
 -	Aide première embauche
--	
+
 ## Préparation à l’embauche
 -	définition du poste : profil, compétences, savoir être, objectifs, encadrement
 -	budget (salaire, primes, equity)
