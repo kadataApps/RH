@@ -89,7 +89,8 @@ Une Promesse d’entrée/option d’entrée au capital peut être conditionnée 
 - au niveau de trésorerie de la société
 - à la réalisation d’objectifs
 -	Stock options :
--- Salariés de la société sont prioritaires en cas de cession de part
-Dans tout les cas, doit faire l’objet d’un pacte d’actionnaire.
+..- Salariés de la société sont prioritaires en cas de cession de part
+- Dans tout les cas, doit faire l’objet d’un pacte d’actionnaire.
 Pour la participation des salariés, voir le site URSSAF.
 
+> © Kadata - Licence Creative Commons CC BY-NC-SA 3.0 FR
